@@ -26,8 +26,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toyama170402&theme=nord_bright#gh-light-mode-only)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toyama170402&theme=gruvbox#gh-dark-mode-only)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toyama170402&theme=nord_bright#gh-light-mode-only)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toyama170402&theme=gruvbox#gh-dark-mode-onl)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toyama170402&theme=nord_bright#gh-light-mode-onl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toyama170402&theme=gruvbox#gh-dark-mode-only)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toyama170402&theme=nord_bright#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/toyama170402/toyama170402.github.io/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/toyama170402/toyama170402.github.io/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
