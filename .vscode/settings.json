@@ -1,0 +1,7 @@
+{
+  "japanese-proofreading.textlint.ひらく漢字": false,
+  "[markdown]": {
+    "github.copilot.editor.enableAutoCompletions": false,
+    "editor.inlineSuggest.enabled": false
+  }
+}
