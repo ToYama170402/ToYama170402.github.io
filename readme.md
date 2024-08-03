@@ -3,6 +3,8 @@
 
 # ToYama
 
+## About me
+
 - A Student of KU School of Smart Tech&Innov, Transdisciplinary Sci. for Innov
 - I like ...
   - Programming
@@ -23,3 +25,16 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toyama170402&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toyama170402&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toyama170402&theme=gruvbox)
+
+## Links
+
+- [My Blog : toyama170402.github.io](https://toyama170402.github.io)
+- [Twitter : twitter.com/ToYamaSoujin](https://twitter.com/ToYamaSoujin)
+- [YouTube : youtube.com/@ToYamaSoujin](https://www.youtube.com/@ToYamaSoujin)
+- [niconico : nicovideo.jp/user/132705318](https://www.nicovideo.jp/user/132705318)
+- [Individual Library : koseihabunnko.github.io](https://koseihabunnko.github.io)
+- [rishu-app : toyama170402.github.io/rishu-app](https://toyama170402.github.io/rishu-app)
+
+## About this repository
+
+This repository is my self introduction repository contain my blog.
