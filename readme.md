@@ -28,12 +28,12 @@
 
 ## Links
 
-- [My Blog : toyama170402.github.io](https://toyama170402.github.io)
-- [Twitter : twitter.com/ToYamaSoujin](https://twitter.com/ToYamaSoujin)
-- [YouTube : youtube.com/@ToYamaSoujin](https://www.youtube.com/@ToYamaSoujin)
-- [niconico : nicovideo.jp/user/132705318](https://www.nicovideo.jp/user/132705318)
-- [Individual Library : koseihabunnko.github.io](https://koseihabunnko.github.io)
-- [rishu-app : toyama170402.github.io/rishu-app](https://toyama170402.github.io/rishu-app)
+- My Blog :[toyama170402.github.io](https://toyama170402.github.io)
+- Twitter :[twitter.com/ToYamaSoujin](https://twitter.com/ToYamaSoujin)
+- YouTube :[youtube.com/@ToYamaSoujin](https://www.youtube.com/@ToYamaSoujin)
+- niconico :[nicovideo.jp/user/132705318](https://www.nicovideo.jp/user/132705318)
+- Individual Library :[koseihabunnko.github.io](https://koseihabunnko.github.io)
+- rishu-app :[toyama170402.github.io/rishu-app](https://toyama170402.github.io/rishu-app)
 
 ## About this repository
 
