@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  hugo:
+    image: hugomods/hugo:dart-sass-base-0.134.3
+    command: server -DF
+    volumes:
+      - ./src:/src
+      - ~/hugo_cache:/tmp/hugo_cache
+    ports:
+      - 1313:1313
