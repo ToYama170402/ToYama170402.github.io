@@ -118,7 +118,7 @@ hugo new content/post/YYYY-MM-DD.md
 
 - `main`ブランチへのプッシュ時に自動的にビルド・デプロイされます
 - 毎日午前4時（UTC）に定期ビルドが実行されます
-- デプロイ先: https://toyama.github.io
+- デプロイ先: https://toyama170402.github.io
 
 ## ライセンス
 
@@ -126,7 +126,7 @@ Copyright © 2020 ToYama
 
 ## リンク
 
-- ブログサイト: https://toyama.github.io
+- ブログサイト: https://toyama170402.github.io
 - Twitter: [@ToYamaSoujin](https://twitter.com/ToYamaSoujin)
 - YouTube: [@ToYamaSoujin](https://www.youtube.com/@ToYamaSoujin)
 - GitHub: [@ToYama170402](https://github.com/ToYama170402)
