@@ -5,7 +5,7 @@ lastmod: '2026-03-21'
 image: '融合オンライン入試説明会2025.png'
 ---
 
-[【１/１９（月）開催！】融合学域 各学類 オンライン入試説明会](<https://innov.w3.kanazawa-u.ac.jp/news/2026examguidance/>)
+[【１/１９（月）開催！】融合学域 各学類 オンライン入試説明会](https://innov.w3.kanazawa-u.ac.jp/news/2026examguidance/)
 
 ## 目的
 
