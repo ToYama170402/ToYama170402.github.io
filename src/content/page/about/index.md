@@ -5,7 +5,7 @@ date: '2024-04-28'
 aliases:
   - about-us
   - contact
-lastmod: '2026-05-26'
+lastmod: '2026-03-26'
 menu:
     main: 
         weight: -90
@@ -18,7 +18,7 @@ menu:
 - 金沢大学融合学域スマート創成科学類学生
 - 28卒
 - [金沢IT部活](https://kanazawa-it-bukatsu.jp)学生メンター
-- [project:ZENKAI](https://kanazawa-it-bukatsu.jp/) 二期参加者
+- [project:ZENKAI](https://project-zenkai.jp/) 二期参加者
 
 ## 趣味
 
